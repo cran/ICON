@@ -1,0 +1,11 @@
+67ca738d9ac34b6fc5b4b0ea5d4a698e *DESCRIPTION
+b5b2e20c75457107297b566908b8c29d *NAMESPACE
+72a53e9e7f2158254a053733faff8a43 *R/ICON.R
+b4738a1532a8d2e788db85dd732a3770 *R/data.R
+be96ce6ff8fc7e1e76cfad937746d4aa *data/chess.rda
+c608c14139eb91d4e0ad9fd11e49cc00 *data/seed_disperse.rda
+675382cd7b925fda1d40f23e440e438a *data/yeast_ppi.rda
+2968115aec21f58810e1cc99ae552a7f *man/ICON.Rd
+576403eba3491a99a30e40a591488f4b *man/chess.Rd
+0eec62d63f8047f1e43015452483fe2b *man/seed_disperse.Rd
+3d11762067aaadf60fbbe60b5a8d2db6 *man/yeast_ppi.Rd
