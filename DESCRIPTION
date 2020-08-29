@@ -1,7 +1,7 @@
 Package: ICON
 Type: Package
 Title: Provides Easy Access to Complex Systems Datasets
-Version: 0.2.0
+Version: 0.3.0
 Authors@R: c(
     person("Raoul", "Wadhwa", email = "raoulwadhwa@gmail.com", role = c("aut", "cre")),
     person("Jacob", "Scott", role = "aut"))
@@ -20,9 +20,9 @@ URL: https://github.com/rrrlw/ICON
 BugReports: https://github.com/rrrlw/ICON/issues
 RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2020-05-20 01:07:58 UTC; rrrlw
+Packaged: 2020-08-29 19:44:02 UTC; wadhwar
 Author: Raoul Wadhwa [aut, cre],
   Jacob Scott [aut]
 Maintainer: Raoul Wadhwa <raoulwadhwa@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-05-20 04:10:02 UTC
+Date/Publication: 2020-08-29 20:00:02 UTC

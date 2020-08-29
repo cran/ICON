@@ -1,10 +1,10 @@
-4a12e00e6af6e1fbc2b1cbce8f5e1581 *DESCRIPTION
+8c24e9a2072d8f566404b2884fb399e2 *DESCRIPTION
 5ddaf93b79612fac92f50e833146e63a *NAMESPACE
 6ed1fccaf2175b1532d923c9ef79f31e *R/ICON.R
 7434894b9613fffcece5e63bc4a238fc *R/acquire.R
 b229cb42fda3613cde53ca8cafba9ed6 *R/data.R
 59383b0c11bec9b14cddb7a0eea3ccd2 *R/globals.R
-78e0c20cb72b95349625daa73c68a1c6 *data/ICON_data.rda
+d2ee781e3c8666a09bed6e6f56a2ad19 *data/ICON_data.rda
 85ea5465ed4f5d5b018428dd0cae8234 *man/ICON.Rd
 414a5b23e5990ab7aa7902e6b4e906b2 *man/ICON_data.Rd
 8e80d3c900f70cbd72f7a8be2b9b9b8f *man/get_data.Rd
